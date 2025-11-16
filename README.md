@@ -42,7 +42,7 @@ then set colorscheme with one of the following:
 <a name="extras"></a>
 ## extras
 
-there is an `extras/` directory that currently only has a colorscheme for [foot](https://codeberg.org/dnkl/foott) and `kumashi.json` in case you want to port this theme to whatever emulator you use. if you do, [please make pull request](https://codeberg.org/sailorfe/kumashi.nvim/pulls)!
+there is an `extras/` directory that currently only has colorschemes for [alacritty](https://alacritty.org) and [foot](https://codeberg.org/dnkl/foot), as well as a `kumashi.json` in case you want to port this theme to whatever emulator you use. if you do, [please make pull request](https://codeberg.org/sailorfe/kumashi.nvim/pulls)!
 
 <a name="acknowledgments"></a>
 ## acknowledgments
